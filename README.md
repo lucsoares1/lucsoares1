@@ -29,7 +29,6 @@ Estou construindo minha jornada no desenvolvimento **Full Stack**, estudando pel
 
 ## ⚡ Tech Stack
 
----
 
 ### 💻 Front-End
 <p align="left">
