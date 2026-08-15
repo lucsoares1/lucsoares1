@@ -29,7 +29,8 @@ Estou construindo minha jornada no desenvolvimento **Full Stack**, estudando pel
 
 ## ⚡ Tech Stack
 
---
+---
+
 ### 💻 Front-End
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Front-End Icons" />
