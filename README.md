@@ -80,17 +80,6 @@ Estou construindo minha jornada no desenvolvimento **Full Stack**, estudando pel
 
 ---
 
-## 🎯 O Ciclo de Aprendizado
-
-```text
- 📥 Aprender  ──►  🧪 Praticar  ──►  🛠️ Construir
-                         │
-                         ▼
- 📈 Melhorar  ◄──  🔍 Entender ◄──  🐞 Debugar / Errar
-```
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucsoares1/lucsoares1/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucsoares1/lucsoares1/output/github-snake.svg">
